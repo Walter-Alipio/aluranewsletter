@@ -1,16 +1,8 @@
 # aluranewsletter
 
-<style>
-  container{
-    display:flex; 
-    flex-direction: column;
-    align-items:center; 
-    gap:2rem;
-  }
-</style>
-<div class="container">
-  <img src="./aluranewsletter.png" alt="Visão desktop, capacete de mergulhador a esquerda e formulário de newsletter a direita" width="600" align="center">
-  <img src="./aluranewsletterMB.png" alt="Visão mobile, formulário da newsletter" height="600" align="center">
+<div style="display: flex; align-items:center; gap:1rem; margin:auto">
+  <img src="./aluranewsletter.png" alt="Visão desktop, capacete de mergulhador a esquerda e formulário de newsletter a direita" width="400">
+  <img src="./aluranewsletterMB.png" alt="Visão mobile, formulário da newsletter" height="400">
 </div>
 
 #
