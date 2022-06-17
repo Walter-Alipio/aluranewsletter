@@ -4,6 +4,8 @@
   <div align="center">
     <img src="./aluranewsletter.png" alt="Visão desktop, capacete de mergulhador a esquerda e formulário de newsletter a direita" width="400" align="center">
   </div>
+  <br>
+  <br>
   <div align="center">
    <img src="./aluranewsletterMB.png" alt="Visão mobile, formulário da newsletter" height="400" align="center">
   </div>
